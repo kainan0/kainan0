@@ -1,11 +1,15 @@
-### Hi there 👋
+### Olá, eu sou Pedro Benevides! 
+
+- 💡 Trabalho como dev PHP, NodeJS e Python
+- ❤️ Estudando analise e desenvolvimento de sistemas
+- 🖥️ Sou formado técnico em informática
 
 <!--
 **kainan0/kainan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Trabalho hoje como dev NodeJS
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
