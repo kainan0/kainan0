@@ -1,4 +1,4 @@
-### Olá, eu sou Pedro Benevides! 
+### Olá, eu sou Kainan Brito! 
 
 - 💡 Trabalho como dev PHP, NodeJS e Python
 - ❤️ Estudando analise e desenvolvimento de sistemas
